@@ -1,0 +1,14 @@
+#submit-btn:hover{
+    background-color: orange;
+    color: blue;
+    transition-duration: 0.5s
+}
+#submit-btn{
+    
+    background-color: red;
+    color: white; 
+    border: 0;
+     padding: 7px;
+    
+
+}
